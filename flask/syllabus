@@ -1,1 +1,178 @@
+Module 1 – Python Programming Fundamentals (8 Hours)
+Session 1 (2 Hours)
+Introduction to Python
+Python Installation
+IDE Setup (VS Code/PyCharm)
+Variables
+Data Types
+Input and Output
+Session 2 (2 Hours)
+Operators
+Conditional Statements
+Loops
+Pattern Programs
+Session 3 (2 Hours)
+Functions
+Lambda Functions
+Modules
+Packages
+Exception Handling
+Session 4 (2 Hours)
+OOP Concepts
+Classes
+Objects
+Inheritance
+Polymorphism
+File Handling
 
+Hands-on
+
+Student Management Console Application
+
+Module 2 – Web Development Fundamentals (3 Hours)
+Client Server Architecture
+HTTP Request & Response
+URL
+Browser Working
+GET vs POST
+HTML Basics
+CSS Basics
+Bootstrap Introduction
+
+Mini Activity
+
+Static College Website
+Module 3 – Flask Fundamentals (5 Hours)
+Topics
+What is Flask?
+Why Flask?
+Flask Installation
+Virtual Environment
+pip
+Project Structure
+Flask Application
+Routing
+Dynamic Routing
+URL Parameters
+Request Object
+Response Object
+Debug Mode
+
+Hands-on
+
+Employee Information System
+Module 4 – Templates & Static Files (5 Hours)
+Topics
+Jinja2 Template Engine
+Template Variables
+Template Inheritance
+Base Template
+Navigation Bar
+Static Folder
+CSS Integration
+Bootstrap Integration
+Image Upload
+Flash Messages
+
+Hands-on
+
+
+College Website using Flask
+
+Module 5 – Forms & Validation (4 Hours)
+Topics
+HTML Forms
+GET Method
+POST Method
+Flask-WTF
+WTForms
+Form Validation
+CSRF Protection
+Error Messages
+
+Hands-on
+
+Student Registration Form
+
+Module 6 – Database with SQLAlchemy (8 Hours)
+Session 1
+SQLite Database
+MySQL Connection
+SQLAlchemy ORM
+Session 2
+Models
+Relationships
+CRUD Operations
+Session 3
+Flask-Migrate
+Database Migration
+Pagination
+Session 4
+Searching
+Sorting
+Filtering
+
+Hands-on
+
+Employee Management System
+
+Module 7 – Authentication & Authorization (6 Hours)
+Topics
+User Registration
+Login
+Logout
+Password Hashing
+Sessions
+Cookies
+Flask-Login
+Role-Based Authentication
+Profile Page
+Forgot Password (Overview)
+
+Hands-on
+
+Login System
+Module 8 – REST API Development (6 Hours)
+Topics
+REST API Introduction
+JSON
+API Routing
+GET API
+POST API
+PUT API
+DELETE API
+API Testing using Postman
+Error Handling
+API Documentation
+
+Hands-on
+
+Student REST API
+Module 9 – Advanced Flask Concepts (6 Hours)
+Topics
+Blueprints
+Application Factory Pattern
+Configuration Management
+Logging
+Environment Variables
+File Upload
+Email Integration
+Flask-Mail
+Flask-Caching
+Error Pages (404, 500)
+Unit Testing
+Project Structure Best Practices
+
+Hands-on
+
+Modular Flask Project
+Module 10 – Deployment & Real-Time Project (9 Hours)
+Deployment
+Git & GitHub
+Requirements.txt
+Environment Variables
+Gunicorn
+Nginx Overview
+Docker Basics
+Cloud Deployment Overview
+Production Configuration
