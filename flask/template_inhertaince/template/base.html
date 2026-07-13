@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+     <link rel="stylesheet" href="{{url_for('static',filename='css/styles.css')}}">
+</head>
+<body>
+<header>
+    <div class="flask">
+    <nav>
+        <a href=" /"> Home</a>
+        <a href="/about">About</a>
+        <a href="/contact">Contact</a>
+    </nav>
+    </div>
+</header>
+<main>
+    <h1> CCA</h1>
+    <hr>
+    {% block content %}
+</main>
+<footer>
+
+     <h3> @ copyright by BALAMURUGAN @2026</h3>
+</footer>
+{% endblock %}
+</body>
+</html>
